@@ -1,3 +1,5 @@
-body {
-	background-color: black;
+.borderless.topmenu.menu {
+  background-color:#F5F5F5;
+  border:none;
+  box-shadow:none;
 }
